@@ -1,6 +1,6 @@
 trigger:
 - '*'
-
+# comment
 variables:
   buildConfiguration: 'Release'
 
